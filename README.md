@@ -94,7 +94,7 @@ I'm actively seeking a **Data Analyst** role. Let's connect!
 | 🔗 LinkedIn  | www.linkedin.com/in/ishwaraya-somasundaram-31b4b1375
 | 📸 Instagram | kookie_5668
 | 📧 Email     | ishuishu3422@gmail.com
-| 🐙 GitHub    | [github.com/ishu](your-link) |
+| 🐙 GitHub    | https://github.com/ishuishu3422-sketch
 
 ---
 
@@ -104,8 +104,9 @@ I'm actively seeking a **Data Analyst** role. Let's connect!
 - [ ] Add forecasting visuals
 - [ ] Create mobile-optimized layout
 - [ ] Publish to Power BI Service
+*Thanks for checking out my project! Feedback and suggestions are always welcome.* ✨
 
 
 <img width="1920" height="1039" alt="Power BI Desktop 02-04-2026 16_38_35" src="https://github.com/user-attachments/assets/1c4cd0c3-c58c-48c5-b57d-219a0ff8f682" />
 
-*Thanks for checking out my project! Feedback and suggestions are always welcome.* ✨
+
